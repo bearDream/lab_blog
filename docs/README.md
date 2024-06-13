@@ -4,8 +4,8 @@ heroImage: /assets/高科技.png
 actionText: 了解我们 →
 actionLink: /category/
 features:
-- title: 有补贴
-  details: 每月定时有补贴，做做项目钱更多，生活质量有保证.
+- title: 科研
+  details: 研究前沿热点，探索科学边界.
 - title: 高质量
   details: 论文高质量要求, SCI是常态.
 - title: 有大佬
