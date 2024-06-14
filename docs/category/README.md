@@ -16,6 +16,6 @@
 > 英雄不问出处，我们在<span style="color:#3473B3">信自楼503/505/506/507</span>等你
 
 ### 加入QQ群来咨询吧[<span style="color:#3473B3">推荐！</span>]
-QQ群号: 338500152
+QQ群号: xxx
 
-<img src= "../.vuepress/public/assets/qq_code.png" style="height:50%;width:50%;"/>
+<!-- <img src= "../.vuepress/public/assets/qq_code.png" style="height:50%;width:50%;"/> -->
